@@ -1,2 +1,2 @@
-# paulo.vue.community
-Redirect to paulo.vue.community
+# saopaulo.vue.community
+Redirect to saopaulo.vue.community
